@@ -60,5 +60,7 @@ typings/
 # next.js build output
 .next
 
-credential/datastore-cred.json
-credential/telegram-cred.json
+cred-datastore.json
+cred-telegram.json
+
+.gcloudignore
