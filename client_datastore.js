@@ -2,7 +2,7 @@ const Datastore = require('@google-cloud/datastore');
 
 const datastore = new Datastore({
   projectId: 'sleepy-project',
-  keyFilename: 'cred-datastore.json'
+  keyFilename: 'credential/cred-datastore.json'
 });
 
 function add(task, link, author) {

@@ -1,6 +1,6 @@
 const https          = require('https')
 const datastore      = require('./client_datastore.js')
-const creds_telegram = require('./cred-telegram.json')
+const creds_telegram = require('./credential/cred-telegram.json')
 
 var options = {
   hostname: 'api.telegram.org',
