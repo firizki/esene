@@ -2,8 +2,7 @@
 Task management bot Telegram
 
 ## Requirement
+You need these creds to use/deploy this bot
 - Google Cloud Functions
 - Google Cloud Datastore
-- Telegram bot token
-
-So You need these creds to use/deploy this bot
+- Telegram Bot Token
